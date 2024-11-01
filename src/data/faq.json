@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the purpose of this job onboarding website?",
+    "answer": "This website connects job seekers with potential employers, allowing candidates to search and apply for jobs while providing recruiters with tools to manage hiring processes."
+  },
+  {
+    "question": "How can I create an account on the platform?",
+    "answer": "To create an account, click on the 'Sign Up' button on the homepage, fill in your details, and verify your email address."
+  },
+  {
+    "question": "What types of jobs can I find on this site?",
+    "answer": "You can find a wide range of job listings across various industries, including full-time, part-time, remote, and freelance positions."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "Once you've found a job listing that interests you, click the 'Apply' button, fill out the application form, and submit your resume and cover letter."
+  },
+  {
+    "question": "Can I track my job applications?",
+    "answer": "Yes, you can track the status of your job applications through your dashboard, where you can see updates from recruiters."
+  },
+  {
+    "question": "How do recruiters hire candidates through challenges?",
+    "answer": "Recruiters can create skill-based challenges for candidates. Candidates must complete these challenges to demonstrate their abilities, which helps recruiters assess their fit for the job."
+  },
+  {
+    "question": "What should I include in my profile?",
+    "answer": "Your profile should include your resume, a professional photo, work experience, education, skills, and any certifications relevant to the jobs you're applying for."
+  },
+  {
+    "question": "Is my personal information secure on this platform?",
+    "answer": "Yes, we prioritize your privacy and use industry-standard encryption to protect your personal information. We do not share your data with third parties without your consent."
+  },
+  {
+    "question": "Can I edit my application after submitting it?",
+    "answer": "Once submitted, you cannot directly edit your application. However, you can reach out to the recruiter to request changes or provide additional information."
+  },
+  {
+    "question": "What if I forget my password?",
+    "answer": "If you forget your password, click on the 'Forgot Password?' link on the login page, and follow the instructions to reset it."
+  }
+]

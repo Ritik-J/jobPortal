@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Google",
+    "image": "/google.png"
+  },
+  {
+    "id": 2,
+    "name": "Microsoft",
+    "image": "/microsoft.png"
+  },
+  {
+    "id": 3,
+    "name": "Apple",
+    "image": "/apple.png"
+  },
+  {
+    "id": 4,
+    "name": "Amazon",
+    "image": "/amazon.png"
+  },
+  {
+    "id": 5,
+    "name": "Meta",
+    "image": "/meta.png"
+  },
+  {
+    "id": 6,
+    "name": "Tesla",
+    "image": "/tesla.png"
+  },
+  {
+    "id": 7,
+    "name": "Netflix",
+    "image": "/netflix.png"
+  },
+  {
+    "id": 8,
+    "name": "spaceX",
+    "image": "/spacex.png"
+  },
+  {
+    "id": 9,
+    "name": "Intel",
+    "image": "/intel.png"
+  },
+  {
+    "id": 10,
+    "name": "IBM",
+    "image": "/ibm.png"
+  }
+]
