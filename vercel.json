@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "./src/cron/cron",
+      "schedule": "*/14 * * * *"
+    }
+  ]
+}
